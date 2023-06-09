@@ -1,4 +1,4 @@
-Hi, I’m (@rgbalex) Alexander
+Hi, I’m Alexander
 
 I am a University of York student of Computer Science in my 3rd year and I am currently on placement within ETAS/Bosch in York.
 Developing in my spare time has currently taken a backseat thanks to my development work at my 9-5 but I am striving to get back into something new!
