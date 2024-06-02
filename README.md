@@ -1,13 +1,56 @@
-Hi, I’m Alexander
+Hello there👋
 
-I am a University of York student of Computer Science in my 3rd year of University.
-Developing in my spare time has currently taken a backseat thanks to my time spent working on university projects and coursework, but I am striving to get back into something new!
-- ✨ I’m interested in Python, Discord, C/C++/C#, Webmin, Linux and more!
-A lot of my time has been spent learning about web servers and hosting environments. I have helped set up websites for customers - right from domain name registration through to web framework choice, hosting and AdSense.
-I am looking to expand my horizons in this area!
-- 🌱 I’m currently learning about MudBlazor, and use this framework both at work and at home.
-- I am also interested in Micronaut and Kafka as I have been using this at University
-- 📫 Reach me via Discord @rgbalex
+A University of York computer science student by day and software developer by night
+Jira appreciator with Agile values
+
+Experience encompassing all elements of development from Scrum to Agile, embedded development to webservers and microservices, 
+GitHub Enterprise to Bitbucket, and from Blazor and WASM or Python right back down to C. Always ready to learn.
+
+I ❤️ Jetbrains IDEA Software :)
+
+> [!NOTE]
+> Developing in my spare time has currently taken a backseat thanks to my time spent working on university projects and coursework. Have also spent time working with ETAS Ltd, and Bosch inbetween university stints.
+
+> [!IMPORTANT]
+> Most current experience include:
+>
+> `.c` `.cs` `.cpp`  `.py` `.java` `.css`
+>
+> `Embedded Software` `Microservices` `Event-Driven Architectures`
+> 
+> `Automotive Software Development` `Assembly and Hardware Debugging`
+> 
+> `Lauterbachs and TRACE32` `Atlassian Software Suite`
+> 
+> `VECTOR Hardware` `In-Vehicle Hardware and Software`
+> 
+> `Github Enterprise` `Microsoft Teams (unfortunately)`
+
+> [!TIP]
+> Platforms I enjoy working most with: `.github` `.vscode` `.idea`
+
+> [!WARNING]
+> Things I already do in my spare time: `Ubuntu and Linux` `Webserver Management` `Website Development`
+> 
+> Things I want to learn more about: `Vivado` `Vitis` `FPGAs` `Zybo` `Arduino` `RPi`
+
+> [!CAUTION]
+> 📫 Reach me via Discord @rgbalex
+
+
+Remaining Buzzwords:
+
+`Programming` `Github Actions` `Jenkins` `Bitbucket` `Confluence` `Jira` 
+
+`Mudblazor` `DiscordPy` `Jupyter` `CustomTkinter` `AWS` `Docker` `WASM`
+
+`Visual Studio` `Visual Studio Code` `Jetbrains IDEA` `Pycharm` `IntelliJ` 
+
+`Uni` `Micronaut` `Kafka` `HPC` `async` `libgdx` `CUDA` `gradle`
+
+`Hobbies` `Wordpress` `Apache2` `ufw` `DDNS` `Webhooks` 
+
+`Webserver Hosting and Domain Management`
 
 <!---
 rgbalex/rgbalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
