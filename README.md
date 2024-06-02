@@ -14,17 +14,11 @@ I ❤️ Jetbrains IDEA Software :)
 > [!IMPORTANT]
 > Most current experience include:
 >
-> `.c` `.cs` `.cpp`  `.py` `.java` `.css`
+> `.c` `.cs` `.cpp`  `.py` `.java` `.css` `.rb` `.ps1` `.sh` `.bat`
 >
 > `Embedded Software` `Microservices` `Event-Driven Architectures`
 > 
 > `Automotive Software Development` `Assembly and Hardware Debugging`
-> 
-> `Lauterbachs and TRACE32` `Atlassian Software Suite`
-> 
-> `VECTOR Hardware` `In-Vehicle Hardware and Software`
-> 
-> `Github Enterprise` `Microsoft Teams (unfortunately)`
 
 > [!TIP]
 > Platforms I enjoy working most with: `.github` `.vscode` `.idea`
@@ -38,19 +32,7 @@ I ❤️ Jetbrains IDEA Software :)
 > 📫 Reach me via Discord @rgbalex
 
 
-Remaining Buzzwords:
 
-`Programming` `Github Actions` `Jenkins` `Bitbucket` `Confluence` `Jira` 
-
-`Mudblazor` `DiscordPy` `Jupyter` `CustomTkinter` `AWS` `Docker` `WASM`
-
-`Visual Studio` `Visual Studio Code` `Jetbrains IDEA` `Pycharm` `IntelliJ` 
-
-`Uni` `Micronaut` `Kafka` `HPC` `async` `libgdx` `CUDA` `gradle`
-
-`Hobbies` `Wordpress` `Apache2` `ufw` `DDNS` `Webhooks` 
-
-`Webserver Hosting and Domain Management`
 
 <!---
 rgbalex/rgbalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
