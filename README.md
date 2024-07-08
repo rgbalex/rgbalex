@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
 
-A University of York computer science student by day and software developer by night
+Computer Science student by day; Software Developer by night
 Jira appreciator with Agile values
 
 Experience encompassing all elements of development from Scrum to Agile, embedded development to webservers and microservices, 
