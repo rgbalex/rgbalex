@@ -1,7 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
 
-~~Computer Science student by day~~ Software Developer by night
-Jira appreciator with Agile values
+~~Computer Science student by day~~ Software Developer by night; Jira appreciator with Agile values
 
 Experience encompassing all elements of development from Scrum to Agile, embedded development to webservers and microservices, 
 GitHub Enterprise to Bitbucket, and from Blazor and WASM or Python right back down to C. Always ready to learn.
