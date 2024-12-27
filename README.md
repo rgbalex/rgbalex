@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg)](https://forthebadge.com)
 
 ~~Computer Science student by day~~ Software Developer by night; Jira appreciator with Agile values
 
