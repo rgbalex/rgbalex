@@ -1,14 +1,13 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg)](https://forthebadge.com)
 
-~~Computer Science student by day~~ Software Developer by night; Jira appreciator with Agile values
+Engineer by day, Software Developer by night.
 
 Experience encompassing all elements of development from Scrum to Agile, embedded development to webservers and microservices, 
-GitHub Enterprise to Bitbucket, and from Blazor and WASM or Python right back down to C. Always ready to learn.
-
-I ❤️ Jetbrains IDEA Software :)
+GitHub Enterprise to Bitbucket, and from Blazor and WASM or Python right back down to C. Always ready to learn. 
+NEW: Now with experience at large engineering firm, with practised knowledge of engineering lifecycle.
 
 > [!NOTE]
-> Developing in my spare time has currently taken a backseat thanks to my time spent working on university projects and coursework. Have also spent time working with ETAS Ltd, and Bosch inbetween university stints.
+> Software development is not 100% in scope of my current role, but I take all the time I can at work to delve into the technical.
 
 > [!IMPORTANT]
 > Most current experience include:
@@ -20,7 +19,7 @@ I ❤️ Jetbrains IDEA Software :)
 > `Automotive Software Development` `Assembly and Hardware Debugging`
 
 > [!TIP]
-> Platforms I enjoy working most with: `.github` `.vscode` `.idea`
+> Platforms I enjoy working most with: `.github` `.vscode` `.idea` `cli`
 
 > [!WARNING]
 > Things I already do in my spare time: `Ubuntu and Linux` `Webserver Management` `Website Development`
@@ -29,9 +28,6 @@ I ❤️ Jetbrains IDEA Software :)
 
 > [!CAUTION]
 > 📫 Reach me via Discord @rgbalex
-
-
-
 
 <!---
 rgbalex/rgbalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
