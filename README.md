@@ -1,10 +1,10 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-badges.svg)](https://forthebadge.com)
 
-Engineer by day, Software Developer by night.
+Security Engineer by day, Hobbyist Software Developer by night.
 
 Experience encompassing all elements of development from Scrum to Agile, embedded development to webservers and microservices, 
 GitHub Enterprise to Bitbucket, and from Blazor and WASM or Python right back down to C. Always ready to learn. 
-NEW: Now with experience at large engineering firm, with practised knowledge of engineering lifecycle.
+NEW: Now with extra experience at large engineering firm(s), with practised knowledge of engineering lifecycle and development.
 
 > [!NOTE]
 > Software development is not 100% in scope of my current role, but I take all the time I can at work to delve into the technical.
