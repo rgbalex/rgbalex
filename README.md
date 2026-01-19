@@ -1,4 +1,4 @@
-[![forthebadge](/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/badges/0-percent-optimized.svg)]
 
 Security Engineer by day, Hobbyist Software Developer by night.
 
